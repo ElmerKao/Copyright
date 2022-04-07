@@ -13,11 +13,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
-# Credits
-
-Project: https://github.com/snaptoken/kilo-tutorial/
-
-Project: https://github.com/antirez/kilo
-Copyright (c) 2016, Salvatore Sanfilippo 
-License: BSD 2-Clause, https://github.com/antirez/kilo/blob/master/LICENSE
